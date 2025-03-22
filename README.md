@@ -2,7 +2,9 @@
 
 A stunning 3D solar system simulation with realistic animations and smooth transitions, built using HTML, CSS, and JavaScript.
 
-![Solar System Preview](./preview.png) <!-- Add an image preview of the project if you have one -->
+live demo- https://amit81082.github.io/3D_solor_system/
+
+![Solar System Preview]  ![image](https://github.com/user-attachments/assets/c3c2c57d-72b2-4f37-bfb7-3be8dc2e4df7)
 
 ---
 
